@@ -1,8 +1,8 @@
 #include <stdio.h>
 int main()
 {
-    int n;
-    scanf("%d",&n);
+    int D;
+    scanf("%d",&D);
     if(n>0)
     printf("Positive");
     else if(n<0)

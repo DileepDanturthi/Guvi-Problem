@@ -3,9 +3,9 @@ int main()
 {
     int D;
     scanf("%d",&D);
-    if(n>0)
+    if(D>0)
     printf("Positive");
-    else if(n<0)
+    else if(D<0)
     printf("Negative");
     else
     printf("Zero");
